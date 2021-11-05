@@ -70,6 +70,7 @@
 	<Script file="InboxMailBag.lua"/>
 	<Script file="Incoming.lua"/>
 	<Script file="InspectEquip.lua"/>
+	<Script file="InstanceAchievementTracker.lua"/>
 	<Script file="InstanceProfits.lua"/>
 	<Script file="InvenMount.lua"/>
 	<Script file="ItemRack.lua"/>
